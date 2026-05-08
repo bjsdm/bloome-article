@@ -53,9 +53,9 @@ Bloome 想做的事，更像是把 Agent 直接放进我们最熟悉的协作结
 
 ![image](bloome_images/image_13.png)
 
-看到这里，大家是不是想到 **Kimi 2.6 **发布后，所关注到了 **agent group**。
+看到这里，大家是不是想到 **Kimi 2.6** 发布后，所关注到了 agent group。
 
-其实，**bloome **开发团队就是之前 **YouWare **产品团队，并且 Bloome 一直在内测，在测试**把 agent 和人放在同一个 IM 系统里，同时还可以分享 agent、拉群等**。
+其实，Bloome 开发团队就是之前 YouWare 产品团队，并且 Bloome 一直在内测，在测试把 agent 和人放在同一个 IM 系统里，同时还可以分享 agent、拉群等。
 
 现在我们直接来直观看看效果吧！
 
